@@ -12,4 +12,4 @@ var articleSchema=new Schema({
 });
 
 var ArticleInfo=mongoose.model('articles',articleSchema);
-module.exports=ArticleInfo;
+module.exports=ArticleInfo ;
